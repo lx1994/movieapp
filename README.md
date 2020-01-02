@@ -31,3 +31,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 第一次修改
 
 第一次修改
+2.0
